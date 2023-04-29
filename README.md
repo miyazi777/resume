@@ -1,4 +1,5 @@
 # 保有資格
+* AWS認定資格 Certified Solutions Architect - Associate
 * Google Cloud認定資格 Associate Cloud Engineer
 * 情報処理技術者試験制度のスキルレベル2
 
