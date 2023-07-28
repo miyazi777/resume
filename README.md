@@ -15,7 +15,7 @@
 
 #### システム構成
 * フロント: React.js, TypeScript
-* バックエンド: Go1.19, ent(ORM), ogen(openapiを元にAPI用コードを生成するツール)
+* バックエンド: Go1.19, ent(ORM), ogen(openapi.ymlを元にAPI用コードを生成するツール)
 * インフラ: AWS Farget, Postgres(AWS RDS),インフラ構築にterraforｍを使用
 * CI/CD: Github Actions
 * その他: 認証にAuth0を使用
